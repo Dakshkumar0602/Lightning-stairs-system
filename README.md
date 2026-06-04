@@ -22,7 +22,7 @@ A smart staircase lighting system using Arduino Mega, IR sensors, keypad authent
 ## Team
 
 - Daksh Kumar
-
+- Dev Popli
 ## Documentation
 
 See the PDF report included in this repository.
